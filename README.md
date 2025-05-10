@@ -41,7 +41,7 @@ Jelly를 클릭하여 자원을 얻고, 얻은 자원을 통해 모든 Jelly 종
 <br><br/>
 
 ## 개발 과정
-https://velog.io/@lmg0052/JellyFarm-%EA%B2%8C%EC%9E%84-%EA%B0%9C%EB%B0%9C-6-C
+https://velog.io/@lmg0052/series/Unity2D-JellyFarm
 <br><br/>
 
 ## 스크린샷 및 게임 플레이 영상
